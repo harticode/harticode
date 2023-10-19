@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working in [Boston Consulting Group](https://www.bcg.com/)
 
-- 🌱 I’m currently learning **Data engineering**
+- 🌱 I’m currently doing **GEN AI**
 
-- 💬 Ask me about **React, FASTAPI, MLOps**
+- 💬 Ask me about **Nextjs, FASTAPI, MLOps, OpenAI, GPT, VertexAI, Generative AI**
 
 - 📫 How to reach me **hamza.aitbaali@mines-saint-etienne.org**
 
