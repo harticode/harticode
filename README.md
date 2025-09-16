@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza AIT BAALI</h1>
-<h3 align="center">A passionate AI software Engineer</h3>
+<h3 align="center">A passionate Lead AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harticode&label=Profile%20views&color=0e75b6&style=flat" alt="harticode" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently doing **GEN AI**
 
-- 💬 Ask me about **Nextjs, FASTAPI, MLOps, OpenAI, GPT, VertexAI, Generative AI**
+- 💬 Ask me about **Nextjs, FASTAPI, MLOps, OpenAI, GPT, VertexAI, Generative AI, RAG, Multi-Agents**
 
 - 📫 How to reach me **hamza.aitbaali@mines-saint-etienne.org**
 
